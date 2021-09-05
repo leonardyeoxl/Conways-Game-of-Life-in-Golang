@@ -7,8 +7,8 @@ import (
 	"sync"
 )
 
-const maxRows = 5
-const maxCols = 5
+const maxRows = 500
+const maxCols = 500
 
 func rowLine() {
 	fmt.Print("\n")
